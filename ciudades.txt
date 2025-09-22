@@ -1,4 +1,3 @@
-Tokio
 Madrid
 Roma
 Berlín
