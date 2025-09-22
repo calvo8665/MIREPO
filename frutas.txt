@@ -1,2 +1,5 @@
 Manzana
 Banana
+Mango
+Durazno
+piña
